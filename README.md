@@ -2,6 +2,13 @@
 
 This project is a Python audio-visual Language Learning App for the endangered Canadian Indigenous Language, Blackfoot.
 
+## Group Members
+
+Layan<br>
+Najwa<br>
+
+## Overview
+
 The App consists of three parts:
 
 1. Learn: While listening to the audio, an image is shown to the user. By pressing the enter key, users can listen to words and view the matching image.
